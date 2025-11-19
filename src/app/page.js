@@ -286,7 +286,7 @@ export default function Page() {
   // --- Flagship portfolio projects (for grad apps) ---
   const projects = [
     {
-      t: "Flagship · Star Rider III – Cause-and-Effect Vehicle for Children with Cerebral Palsy",
+      t: "Flagship · Musical Chair – Cause-and-Effect Vehicle for Children with Cerebral Palsy",
       h: "Problem — Young children with cerebral palsy often have limited, inconsistent movement and few opportunities to see their actions produce meaningful, repeatable effects in the world.\n\nMy role — Lead sensing and human–machine interface design on a five-person capstone team. I repurposed the electromagnetic components of an electric guitar into a vibration-based input, designed the signal-conditioning chain to convert AC pickup signals into a reliable digital trigger, and integrated this with a microcontroller to drive motors and audio feedback.\n\nOutcome — A working prototype (“Musical Chair”) that lets children trigger sound and motion with very small, intentional touches. Supported by a $5,000 sponsorship from California Children’s Services, with ongoing collaboration with clinicians and therapists.",
       m: ["Assistive Tech", "UCSB Capstone", "2025"],
       img: "/images/StarRiderII.jpg",
